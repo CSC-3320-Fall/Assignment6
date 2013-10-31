@@ -1,0 +1,1 @@
+I cant completely follow what is going on but when you go through the calculations the line corresponding to how many times the loop has been repeated is the only line that gives a number. Then it looks like only the absolute value is looked at. Then there is some kind of shift 8 places and some other stuff I dont understand.
